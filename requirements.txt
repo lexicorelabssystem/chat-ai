@@ -1,0 +1,4 @@
+gradio
+rapidfuzz
+sentence-transformers
+torch
